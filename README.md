@@ -1,5 +1,3 @@
-# cloudbeds_40000_cells
-
 > A Vue.js project
 
 ## Build Setup
